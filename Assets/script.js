@@ -1,3 +1,11 @@
+// Dependencies
+// Starting data
+// Functions
+// User interactions
+// Initialize (i.e. run the start function)
+
+
+
 var statBtn = document.getElementById("startButton");
 
 function init() {
